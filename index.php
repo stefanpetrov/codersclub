@@ -10,6 +10,8 @@
   <!-- Latest compiled and minified CSS -->
   <link rel="stylesheet" href="css/app.css">
 
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
   <!--[if lt IE 9]>
@@ -84,8 +86,7 @@
                 culpa hic placeat?</p>
               <a class="pull-left" href="#">See more &raquo;</a>
               <span class="green"></span>
-              <span class="plus-sign"><span
-                  class="glyphicon glyphicon-plus"></span></span>
+              <span class="plus-sign"><i class="fa fa-plus"></i></span>
             </div>
           </div>
         </div>
@@ -103,8 +104,7 @@
                 mollitia officia quos recusandae repudiandae voluptatum.</p>
               <a class="pull-left" href="#">See more &raquo;</a>
               <span class="green"></span>
-              <span class="plus-sign"><span
-                  class="glyphicon glyphicon-plus"></span></span>
+              <span class="plus-sign"><i class="fa fa-plus"></i></span>
             </div>
           </div>
         </div>
@@ -120,8 +120,7 @@
                 necessitatibus omnis soluta vel?</p>
               <a class="pull-left" href="#">See more &raquo;</a>
               <span class="green"></span>
-              <span class="plus-sign"><span
-                  class="glyphicon glyphicon-plus"></span></span>
+              <span class="plus-sign"><i class="fa fa-plus"></i></span>
             </div>
           </div>
         </div>
@@ -138,8 +137,7 @@
                 recusandae sit.</p>
               <a class="pull-left" href="#">See more &raquo;</a>
               <span class="green"></span>
-              <span class="plus-sign"><span
-                  class="glyphicon glyphicon-plus"></span></span>
+              <span class="plus-sign"><i class="fa fa-plus"></i></span>
             </div>
           </div>
         </div>
@@ -198,8 +196,7 @@
     <section class="professionals">
         <div class="clearfix">
           <h4>Our Featured Professionals
-            <a class="btn btn-green" href="#">Penantis Morbi Diam <span
-                class="glyphicon glyphicon-triangle-right"></span></a>
+            <a class="btn btn-green" href="#">Penantis Morbi Diam <i class="fa fa-caret-right"></i></a>
           </h4>
         </div>
 
@@ -220,8 +217,7 @@
                     <p>Adco Architecture<br/>
                       Architect<br/>
                     </p>
-                    <a href="#">See profile <span
-                        class="glyphicon glyphicon-triangle-right"></span></a>
+                    <a href="#">See profile <i class="fa fa-caret-right"></i></span></a>
                   </div>
                 </div>
                 <div class="col-sm-4">
@@ -232,8 +228,7 @@
                     <p>Crazner Studios<br/>
                       Interior Design<br/>
                     </p>
-                    <a href="#">See profile <span
-                        class="glyphicon glyphicon-triangle-right"></span></a>
+                    <a href="#">See profile <i class="fa fa-caret-right"></i></span></a>
                   </div>
                 </div>
                 <div class="col-sm-4">
@@ -244,8 +239,7 @@
                     <p>Poe Media LLC<br/>
                       Interior Design<br/>
                     </p>
-                    <a href="#">See profile <span
-                        class="glyphicon glyphicon-triangle-right"></span></a>
+                    <a href="#">See profile <i class="fa fa-caret-right"></i></span></a>
                   </div>
                 </div>
               </div>
@@ -258,8 +252,7 @@
                     <p>Adco Architecture<br/>
                       Architect<br/>
                     </p>
-                    <a href="#">See profile <span
-                        class="glyphicon glyphicon-triangle-right"></span></a>
+                    <a href="#">See profile <i class="fa fa-caret-right"></i></span></a>
                   </div>
                 </div>
                 <div class="col-sm-4">
@@ -270,8 +263,7 @@
                     <p>Crazner Studios<br/>
                       Interior Design<br/>
                     </p>
-                    <a href="#">See profile <span
-                        class="glyphicon glyphicon-triangle-right"></span></a>
+                    <a href="#">See profile <i class="fa fa-caret-right"></i></span></a>
                   </div>
                 </div>
                 <div class="col-sm-4">
@@ -282,15 +274,14 @@
                     <p>Poe Media LLC<br/>
                       Interior Design<br/>
                     </p>
-                    <a href="#">See profile <span
-                        class="glyphicon glyphicon-triangle-right"></span></a>
+                    <a href="#">See profile <i class="fa fa-caret-right"></i></span></a>
                   </div>
                 </div>
               </div>
             </div>
             <div class="small-slider-controls">
-              <div class="cycle-prev" id="prev"><span class="glyphicon glyphicon-chevron-left"></span></div>
-              <div class="cycle-next" id="next"><span class="glyphicon glyphicon-chevron-right"></span></div>
+              <div class="cycle-prev" id="prev"><i class="fa fa-chevron-left"></i></div>
+              <div class="cycle-next" id="next"><i class="fa fa-chevron-right"></i></span></div>
             </div>
           </div>
         </div>

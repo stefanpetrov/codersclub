@@ -20,17 +20,22 @@ GEM
       minitest (~> 5.1)
       thread_safe (~> 0.3, >= 0.3.4)
       tzinfo (~> 1.1)
-    autoprefixer-rails (5.2.0.1)
+    autoprefixer-rails (5.2.1)
       execjs
       json
     bootstrap-sass (3.3.5)
       autoprefixer-rails (>= 5.0.0.1)
       sass (>= 3.2.19)
     builder (3.2.2)
+    commonjs (0.2.7)
     erubis (2.7.0)
     execjs (2.5.2)
+    font-awesome-less (4.2.0)
+      less (~> 2.4.0)
     i18n (0.7.0)
     json (1.8.3)
+    less (2.4.0)
+      commonjs (~> 0.2.7)
     loofah (2.0.2)
       nokogiri (>= 1.5.9)
     mini_portile (0.6.2)
@@ -78,4 +83,8 @@ PLATFORMS
 
 DEPENDENCIES
   bootstrap-sass (~> 3.3.5)
+  font-awesome-less (~> 4.2.0)
   sass-rails (>= 3.2)
+
+BUNDLED WITH
+   1.10.4
