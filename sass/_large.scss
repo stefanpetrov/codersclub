@@ -1,0 +1,16 @@
+@media (min-width: $screen-lg-min) {
+  .show-lg {
+    display: block !important;
+  }
+  .show-md, .show-sm {
+    display: none !important;
+  }
+  .features {
+    [class^='col-'] {
+      border-right: 1px dashed #bcb8b8;
+      &:last-child {
+        border-right: none;
+      }
+    }
+  }
+}
